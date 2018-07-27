@@ -1,0 +1,22 @@
+{
+  "name": "js-the-weird-parts-my-code-jva001",
+  "private": true,
+  "version": "1.0.0",
+  "description": "my code for the tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Joe Astuccio <joe@astucc.io> (astucc.io)",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0"
+  }
+}
