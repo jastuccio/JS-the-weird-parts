@@ -1,1 +1,5 @@
-// Even with an empty app.js file an execution context is created!
+// This variable and function are in the global scope
+
+var a = 'Hello World!';
+
+function b () {}
